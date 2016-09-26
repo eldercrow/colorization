@@ -1,4 +1,4 @@
-Added a simple python script for the resolution-preserving colorization of images.
+Added a simple python script for resolution-preserving colorization of images.
 
 <!--<h3><b>Colorful Image Colorization</b></h3>-->
 ## <b>Colorful Image Colorization</b> [[Project Page]](http://richzhang.github.io/colorization/) <br>
