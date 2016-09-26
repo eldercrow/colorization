@@ -83,7 +83,6 @@ def gray2rgb(fn_img, fn_r_img=None, net=None, force_gray=False, gpuid=0, show_re
         caffe.set_device(gpuid)
 
         path_script = os.path.dirname(os.path.abspath(__file__))
-        print(path_script)
 
         net = caffe.Net(
                 os.path.join(path_script, 'models/colorization_deploy_v2.prototxt'), 
